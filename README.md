@@ -69,16 +69,12 @@
     </tr>
   </table>
 </div>
-
-<br/>
-
 <!-- 
 =====================================================
     CURRENT FOCUS
 =====================================================
 -->
 <div align="center">
-  <h2>🌱 Sedang Dipelajari</h2>
   <img src="https://img.shields.io/badge/Data%20Science-FF6B9D?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
   <img src="https://img.shields.io/badge/Backend%20Development-4A90E2?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/>
   <img src="https://img.shields.io/badge/Software%20Engineering-50C878?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
